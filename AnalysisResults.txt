@@ -1,0 +1,50 @@
+VARIABLES:
+Apertureradius: 10
+Annulusradius_in radius: 25
+Annulusradius_out radius: 30
+
+1_STARFINDER:
+Amount of masterframes: 20
+Starfinder found 2359 stars for NGC884_A-Rlong
+Starfinder found 3025 stars for NGC869_A-Rlong
+Starfinder found 2090 stars for NGC884_B-Rlong
+Starfinder found 2288 stars for NGC869_B-Rlong
+
+2_PLTSOLVED:
+Centercoordinate of NGC884_A-Rlong: 02 22 02.00 +57 13 06.0 
+Centercoordinate of NGC869_A-Rlong: 02 18 40.00 +57 10 50.0 
+Centercoordinate of NGC884_B-Rlong: 02 21 58.00 +56 50 56.0 
+Centercoordinate of NGC869_B-Rlong: 02 18 47.00 +56 45 58.0 
+
+3_MAGCALIBRATE:
+
+4_COMBINED:
+
+5_FILTER:
+Total amount of stars before filtering long and short exposures: 9762
+Total amount of stars after filtering long and short: 9762
+Number of stars after filtering neg magerror: 9331
+Number of stars after filtering R and V SNR under the 3: 9167
+Number of stars after removing overlap from planes: 8602
+Number of stars found 0.7 degrees from center double cluster Gaia Archive: 104066
+Minimum distance found from Gaia Data: 33.404985986441915 parsec
+Maximum distance found from Gaia Data: 42722.00110974651 parsec
+
+6_STARDISTRIBUTION:
+Lowest m_R: 17.414807694538137
+Lowest m_V: 18.458175963985937
+Lowest m_B: 27.190689565251745
+Center coordinates of NGC869: 34.767 57.077
+Center coordinates of NGC884: 35.535 57.12
+
+7_RESULTS:
+Max distance from center for stars: 0.25
+Isochrone Metallicity: 0.019
+Color Excess value: 0.55
+Found distance for NGC869: 2495 parsec + 140 - 155
+Found distance for NGC884: 2360 parsec + 115 - 135
+
+8_MEMBERSHIP:
+Found distance for NGC869 with gaia data: 2565 parsec + 85 - 90
+Found distance for NGC884 with gaia data: 2380 parsec + 70 - 75
+
